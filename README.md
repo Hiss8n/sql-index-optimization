@@ -49,3 +49,8 @@ After executing the script:
 - a local database user named `bob` exists
 - `bob` can insert records into `salesDB`
 - the password for `bob` is updated
+
+  ## DICLAIMER
+  -This is code is a property of Hissen Tutu
+  for learning purposes only
+  Not for commercial or resale in any form
